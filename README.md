@@ -1,3 +1,4 @@
+
 # Starter Web Repo
 Starter Web project 
 
@@ -12,5 +13,7 @@ Sample website with plenty of files for demos
 
 ## this is complete source code of web project using git and github
 this is the demo project
+
+## added copy right to the file
 
 
