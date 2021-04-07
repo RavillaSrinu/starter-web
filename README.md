@@ -1,7 +1,6 @@
 
 # Starter Web Repo
-Starter Web project 
-
+Starter Web project more changes added conflicting, added a aline to rebasing example and more change from my feature bracnh to o.
 ##Introduction
 
 This repository is for showing how Git and GitHub work
@@ -18,5 +17,7 @@ this is the demo project
 ## added copy right to the file
 
 ##Added a line to rebase example
+
+##
 
 
