@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Ravilla srinivasulu is the woring menber in team
 # THANKS
 
     <name>
