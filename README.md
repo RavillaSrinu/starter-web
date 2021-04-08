@@ -18,6 +18,6 @@ this is the demo project
 
 ##Added a line to rebase example
 
-##
+##Sashing is good git command use to stable the directory
 
 
