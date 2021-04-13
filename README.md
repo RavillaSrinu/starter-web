@@ -20,4 +20,6 @@ this is the demo project
 
 ##Sashing is good git command use to stable the directory
 
+## Testing jenkins integrated to GIT for the continous integration 
+
 
